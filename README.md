@@ -31,3 +31,4 @@ This website was created as part of a web development project for Mnyamane Power
 2.  W3Schools - Responsive Media Queries: https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 3.  Logo image: Created on Canva / or your source
 4.  Content: Own writing based on electrical services
+addded the proffesional link on to my proposal 
